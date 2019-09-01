@@ -5,7 +5,9 @@
 # Pyspark Tutorial
 A Pyspark tutorial for beginners.
 
-<p style="text-align:center;"><img src="https://github.com/VinitaSilaparasetty/Pyspark/blob/master/pyspark.png?raw=true" alt="pyspark"></p>
+<p align="center">
+  <img width="" height="" src="https://github.com/VinitaSilaparasetty/Pyspark/blob/master/pyspark.png?raw=true">
+</p>
 
 ### What is Pyspark?
 
