@@ -2,12 +2,13 @@
     <img alt="GitHub" src="https://img.shields.io/badge/Level-Beginner-blue.svg">
     <img alt="GitHub" src="https://img.shields.io/badge/License-MIT-blue.svg">
 
-# Pyspark Tutorial
-A Pyspark tutorial for beginners.
 
 <p align="center">
   <img width="" height="" src="https://github.com/VinitaSilaparasetty/Pyspark/blob/master/pyspark.png?raw=true">
 </p>
+
+# Pyspark Tutorial
+A Pyspark tutorial for beginners.
 
 ### What is Pyspark?
 
