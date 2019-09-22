@@ -10,6 +10,19 @@
 # Pyspark Tutorial
 A Pyspark tutorial for beginners.
 
+### Contents
+1) How to Connect Spark to Jupyter Notebook
+2) Creating RDDs
+3) Repartitioning
+4) Selections
+5) Creating Sample Data
+6) Subtraction
+7) Cartesian Product
+8) Sorting
+9) Saving
+10) Stopping the Spark Context
+
+
 ### What is Pyspark?
 
 PySpark is the Python API written in python to support Apache Spark. Apache Spark is a distributed framework that can handle Big Data analysis. Apache Spark is written in Scala and can be integrated with Python, Scala, Java, R, SQL  languages. Spark is basically a computational engine, that works with huge sets of data by processing them in parallel and batch systems. It is a handy tool for data science.
